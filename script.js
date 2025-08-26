@@ -30,7 +30,7 @@ const pastebinLinks = {
     'Math1_old': 'https://pastebin.com/raw/4WscJMh0',
     'Math1_new': 'https://pastebin.com/raw/1NcsJK7g',
     'Physics1_old': 'https://pastebin.com/raw/VsZXLGnF',
-    'Physics1_new': 'https://pastebin.com/raw/XZeQHFSs',
+    'Physics1_new': 'https://pastebin.com/raw/Cni2bZTF',
     'English1_old': 'https://pastebin.com/raw/AxmBtNeE',
     'English1_new': 'https://pastebin.com/raw/ZZsjVX30',
     'Statistics_old': 'https://pastebin.com/raw/DY08wqAx',
@@ -40,7 +40,7 @@ const pastebinLinks = {
     'Computer_old': 'https://pastebin.com/raw/xM78SjCp',
     'Computer_new': 'https://pastebin.com/raw/8fZNVW1s',
     'Math2': 'https://pastebin.com/raw/eSiuC5ML',
-    'Physics2': 'https://pastebin.com/raw/e3FQwB9q',
+    'Physics2': 'https://pastebin.com/raw/rdhaAzmX',
     'Chemistry': 'https://pastebin.com/raw/izG7PzL5',
     'Drawing': 'https://pastebin.com/raw/QGnc3Duj',
     'English2': 'https://pastebin.com/raw/yBdzjstv'
